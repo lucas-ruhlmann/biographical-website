@@ -1,0 +1,123 @@
+body  {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  background-image:url(img/1640695.jpg);
+  color : #C0C0C0;
+}
+
+#intro  {
+  font-size: 18px;
+}
+
+#introdiv {
+  margin-left: 550px;
+  margin-top: 200px;
+  margin-right: 50px;
+}
+
+#menu {
+  font-family: 'Lato', sans-serif;
+  font-size: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: -100px;
+  width: 6em;
+}
+
+#home-menu {
+  margin-left: -30px;
+  padding-right: 60px;
+  background-color: black;
+  font-weight: bold;
+}
+
+#cv-menu  {
+  background-color: black;
+  font-weight: bold;
+}
+
+#photo  {
+  float: left;
+  margin: 0 100px 10px 100px;
+  width: 400px;
+  height: auto;
+  border-radius: 1000px;
+}
+
+#formation  {
+  color: white;
+  background-color: #280000;
+  height: 115px;
+  width: 580px;
+  margin-top: 200px;
+  margin-left: 600px;
+  border-radius: 10px;
+}
+
+#competences {
+  color: white;
+  height: 620px;
+  width: 425px;
+  resize: both;
+  background-color: #280000;
+  border-radius: 10px;
+  margin-top: -130px;
+  margin-left: 100px;
+}
+
+#experience  {
+  color: white;
+  background-color: #280000;
+  margin-left: 600px;
+  margin-bottom: 50px;
+  margin-top: -487px;
+  width: 580px;
+  height: 240px;
+  border-radius: 10px;
+}
+
+#interests  {
+  color: white;
+  margin-top: -10px;
+  margin-left: 600px;
+  background-color: #280000;
+  width: 580px;
+  border-radius: 10px;
+  height: 185px;
+}
+
+#infos  {
+  margin-top: 150px;
+  margin-left: 450px;
+  margin-right: auto;
+  margin-bottom: -170px;
+}
+
+#photo-cv {
+    position: relative;
+    float: left;
+    margin-top: -817px;
+    margin-left: 270px;
+    width: 160px;
+}
+
+h2  {
+  margin-left: 10px;
+}
+
+h3  {
+  margin-left: 20px;
+}
+
+p {
+  margin-left: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+}
+
+A:hover {
+  color: #00C5CD;
+}
