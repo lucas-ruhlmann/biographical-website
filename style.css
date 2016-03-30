@@ -1,8 +1,8 @@
 body  {
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
-  background-color: white;
-  color : black;
+  background-image:url('http://p1.pichost.me/640/41/1640695.jpg');
+  color : #C0C0C0;
 }
 
 #intro  {
@@ -45,8 +45,8 @@ body  {
 }
 
 #formation  {
-  color: black;
-  background-color: white;
+  color: white;
+  background-color: #380000;
   height: 115px;
   width: 580px;
   margin-top: 200px;
@@ -55,19 +55,19 @@ body  {
 }
 
 #competences {
-  color: black;
+  color: white;
   height: 620px;
   width: 425px;
   resize: both;
-  background-color: white;
+  background-color: #380000;
   border-radius: 10px;
   margin-top: -130px;
   margin-left: 100px;
 }
 
 #experience  {
-  color: black;
-  background-color: white;
+  color: white;
+  background-color: #380000;
   margin-left: 600px;
   margin-bottom: 50px;
   margin-top: -487px;
@@ -77,10 +77,10 @@ body  {
 }
 
 #interests  {
-  color: black;
+  color: white;
   margin-top: -10px;
   margin-left: 600px;
-  background-color: white;
+  background-color: #380000;
   width: 580px;
   border-radius: 10px;
   height: 185px;
